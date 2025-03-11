@@ -3,8 +3,8 @@ Start Date : 11-Mar-2025
 
 **To CREATE NEW FILE::**
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-…or create a new repository on the command line
-echo "# github-actions" >> README.md
+**…or create a new repository on the command line**
+>echo "# github-actions" >> README.md
 ```
 git init
 git add README.md
