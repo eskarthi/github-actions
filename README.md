@@ -1,21 +1,24 @@
 Test repository for github actions work
 Start Date : 11-Mar-2025
 
-To CREATE NEW FILE::
+**To CREATE NEW FILE::**
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 …or create a new repository on the command line
 echo "# github-actions" >> README.md
+```
 git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/eskarthi/github-actions.git
 git push -u origin main
+```
 
----------------\n\n-----------------------
-…or push an existing repository from the command line
+
+**…or push an existing repository from the command line**
+```
 git remote add origin https://github.com/eskarthi/github-actions.git
 git branch -M main
 git push -u origin main
-
+```
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
